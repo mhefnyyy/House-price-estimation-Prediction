@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Dataset (too large to commit)
+notebooks/data/
+
+# Trained model (too large to commit)
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
