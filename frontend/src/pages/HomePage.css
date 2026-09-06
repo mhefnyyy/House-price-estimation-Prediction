@@ -1,0 +1,15 @@
+.home-page {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+.home-page h1 {
+  margin-bottom: 0.5rem;
+}
+
+.home-page p {
+  color: #555;
+  margin-bottom: 1.5rem;
+}

@@ -1,0 +1,52 @@
+{
+  "furnishing": [
+    "Furnished",
+    "Semi-Furnished",
+    "Unfurnished"
+  ],
+  "transaction": [
+    "New Property",
+    "Other",
+    "Rent/Lease",
+    "Resale"
+  ],
+  "ownership": [
+    "Co-operative Society",
+    "Freehold",
+    "Leasehold",
+    "Power Of Attorney"
+  ],
+  "facing": [
+    "East",
+    "North",
+    "North - East",
+    "North - West",
+    "South",
+    "South - East",
+    "South -West",
+    "West"
+  ],
+  "overlooking": [
+    "Garden/Park",
+    "Garden/Park, Main Road",
+    "Garden/Park, Main Road, Pool",
+    "Garden/Park, Not Available",
+    "Garden/Park, Pool",
+    "Garden/Park, Pool, Main Road",
+    "Main Road",
+    "Main Road, Garden/Park",
+    "Main Road, Garden/Park, Pool",
+    "Main Road, Not Available",
+    "Main Road, Pool",
+    "Main Road, Pool, Garden/Park",
+    "Pool",
+    "Pool, Garden/Park",
+    "Pool, Garden/Park, Main Road",
+    "Pool, Main Road",
+    "Pool, Main Road, Garden/Park",
+    "Pool, Main Road, Not Available"
+  ],
+  "status": [
+    "Ready to Move"
+  ]
+}
